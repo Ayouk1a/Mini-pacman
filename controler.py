@@ -1,8 +1,6 @@
 import random
 from PyQt6.QtCore import QTimer
 
-123
-
 class Entite:
     def __init__(self, x, y):
         self.x = x
