@@ -1,4 +1,4 @@
-# Mini-pacman-
+# Mini-pacman
 Réalisation d'un mini-jeu inspiré du jeu original "PACMAN"
 
 - Langage de programmation utilisé : Python
